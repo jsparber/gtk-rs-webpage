@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/gtk-rs-webpage/" # the subpath of your site, e.g. /blog/
 url: "https://gtk-rs.org" # the base hostname & protocol for your site
 github_username: gtk-rs
-permalink: /blog/:year/:month/:day/:title.html
+permalink: blog/:year/:month/:day/:title.html
 authors:
   gkoz: '<a href="https://github.com/gkoz">Gleb Kozyrev</a>'
   imperio: '<a href="https://github.com/GuillaumeGomez">Guillaume Gomez</a>'

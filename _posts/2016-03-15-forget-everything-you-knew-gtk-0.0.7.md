@@ -155,5 +155,5 @@ bits is going to be our next documentation milestone.
 [gtk246]: https://github.com/gtk-rs/gtk/issues/246
 [gtk248]: https://github.com/gtk-rs/gtk/issues/248
 [lgpl-docs]: https://github.com/gtk-rs/lgpl-docs
-[no-features-post]: /blog/2015/09/09/crates-meet-automation.html#no-more-features
+[no-features-post]: blog/2015/09/09/crates-meet-automation.html#no-more-features
 [rustdoc-stripper]: https://github.com/GuillaumeGomez/rustdoc-stripper
