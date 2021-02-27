@@ -7,7 +7,7 @@ layout: wide
 
 ## [Rust] bindings for [GTK+ 3][GTK], [Cairo], [GtkSourceView] and other [GLib]-compatible libraries
 
-[![GTK screenshot](gtk.png)](gtk.png)
+[![GTK screenshot](./gtk.png)](./gtk.png)
 
 [Rust]: https://www.rust-lang.org/
 [GLib]: https://developer.gnome.org/glib/stable/
