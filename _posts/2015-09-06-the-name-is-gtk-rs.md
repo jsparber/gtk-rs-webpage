@@ -42,5 +42,5 @@ git remote -v | awk '/rust-gnome/ { \
 {% endhighlight %}
 
 [announcements]: {{ site.baseurl | prepend: site.url }}
-[blog]: {{ "/blog" | prepend:site.baseurl | prepend: site.url }}
+[blog]: {{ "blog" | prepend:site.baseurl | prepend: site.url }}
 [gtk-rs.github.io]: https://github.com/gtk-rs/gtk-rs.github.io
